@@ -1,6 +1,6 @@
 # iShop
 
-Small React application
+Small React application. 
 You can edit product list or add new positions
 
 
