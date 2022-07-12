@@ -1,0 +1,42 @@
+[
+    {
+      "phoneName": "Смартфон Apple iPhone 13 128GB (темная ночь)", 
+      "price": 2560, 
+      "url": "https://content2.onliner.by/catalog/device/header/b9fefc8c8f96dbc21492792f3a1a502d.jpeg", 
+      "store": 4, 
+      "code": 1,
+      "description": "Apple iOS, экран 6.1 OLED (1170x2532), Apple A15 Bionic, ОЗУ 4 ГБ, флэш-память 128 ГБ, камера 12 Мп, аккумулятор 3227 мАч, 1 SIM"
+    },
+    {
+      "phoneName": "Смартфон Apple iPhone 11 64GB (черный)", 
+      "price": 1610, 
+      "url": "https://content2.onliner.by/catalog/device/header/e2189f90f9088975c553ec33431fc186.jpeg", 
+      "store": 10, 
+      "code": 2,
+      "description": "Apple iOS, экран 6.1 IPS (828x1792), Apple A13 Bionic, ОЗУ 4 ГБ, флэш-память 64 ГБ, камера 12 Мп, аккумулятор 3046 мАч, 1 SIM"      
+    },
+    {
+      "phoneName": "Смартфон Apple iPhone 12 128GB (черный)", 
+      "price": 2450, 
+      "url": "https://content2.onliner.by/catalog/device/header/bf14a99b6b00fa25711a3e8e7a87d23a.jpeg", 
+      "store": 5, 
+      "code": 3,
+      "description": "Apple iOS, экран 6.1 OLED (1170x2532), Apple A14 Bionic, ОЗУ 4 ГБ, флэш-память 128 ГБ, камера 12 Мп, аккумулятор 2815 мАч, 1 SIM"
+    },
+    {
+      "phoneName": "Смартфон Apple iPhone 13 Pro 128GB (графитовый)", 
+      "price": 3270, 
+      "url": "https://content2.onliner.by/catalog/device/header/c66db6b4c5cce1915eadd8bb59f5c527.jpeg", 
+      "store": 1, 
+      "code": 4,
+      "description": "Apple iOS, экран 6.1 OLED (1170x2532), Apple A15 Bionic, ОЗУ 6 ГБ, флэш-память 128 ГБ, камера 12 Мп, аккумулятор 3095 мАч, 1 SIM"
+    },
+    {
+      "phoneName": "Смартфон Apple iPhone SE 64GB (черный)", 
+      "price": 1280, 
+      "url": "https://content2.onliner.by/catalog/device/header/5967975d9c930761f16487f8b690eb9a.jpeg", 
+      "store": 17, 
+      "code": 5,
+      "description": "Apple iOS, экран 4.7 IPS (750x1334), Apple A13 Bionic, ОЗУ 3 ГБ, флэш-память 64 ГБ, камера 12 Мп, аккумулятор 1820 мАч, 1 SIM"
+    }
+  ]

@@ -1,0 +1,14 @@
+.image {
+    width: 115px;
+    height: 155px;
+}
+.item h2 {
+    margin-bottom: 10px;
+    width: 585px;
+}
+
+.chosen {
+    background: linear-gradient(90deg, white 10%, #03c5ff 95%);
+    
+}
+
