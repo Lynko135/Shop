@@ -1,3 +1,8 @@
+# iShop
+
+Small React application
+You can edit product list or add new positions
+
 
 In the project directory, you can run:
 
