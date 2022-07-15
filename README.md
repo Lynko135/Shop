@@ -2,7 +2,7 @@
 
 Small React application. 
 You can edit product list or add new positions
-
+https://github.com/Lynko135/Shop/
 
 In the project directory, you can run:
 
